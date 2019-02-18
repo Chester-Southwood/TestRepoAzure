@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\bin\Debug\netcoreapp2.2\azureTest.deps.json
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\bin\Debug\netcoreapp2.2\azureTest.runtimeconfig.json
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\bin\Debug\netcoreapp2.2\azureTest.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\bin\Debug\netcoreapp2.2\azureTest.dll
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\bin\Debug\netcoreapp2.2\azureTest.pdb
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\bin\Debug\netcoreapp2.2\azureSrc.dll
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\bin\Debug\netcoreapp2.2\azureSrc.pdb
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\obj\Debug\netcoreapp2.2\azureTest.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\obj\Debug\netcoreapp2.2\azureTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\obj\Debug\netcoreapp2.2\azureTest.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\obj\Debug\netcoreapp2.2\azureTest.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\obj\Debug\netcoreapp2.2\azureTest.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\obj\Debug\netcoreapp2.2\azureTest.dll
+C:\Users\User\Documents\GitHub\TestDirectory\tests\azureTest\obj\Debug\netcoreapp2.2\azureTest.pdb

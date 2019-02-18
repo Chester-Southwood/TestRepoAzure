@@ -1,0 +1,11 @@
+C:\Users\User\Documents\GitHub\TestDirectory\src\bin\Debug\netcoreapp2.2\azureSrc.deps.json
+C:\Users\User\Documents\GitHub\TestDirectory\src\bin\Debug\netcoreapp2.2\azureSrc.runtimeconfig.json
+C:\Users\User\Documents\GitHub\TestDirectory\src\bin\Debug\netcoreapp2.2\azureSrc.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\TestDirectory\src\bin\Debug\netcoreapp2.2\azureSrc.dll
+C:\Users\User\Documents\GitHub\TestDirectory\src\bin\Debug\netcoreapp2.2\azureSrc.pdb
+C:\Users\User\Documents\GitHub\TestDirectory\src\obj\Debug\netcoreapp2.2\azureSrc.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\TestDirectory\src\obj\Debug\netcoreapp2.2\azureSrc.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\TestDirectory\src\obj\Debug\netcoreapp2.2\azureSrc.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\TestDirectory\src\obj\Debug\netcoreapp2.2\azureSrc.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\TestDirectory\src\obj\Debug\netcoreapp2.2\azureSrc.dll
+C:\Users\User\Documents\GitHub\TestDirectory\src\obj\Debug\netcoreapp2.2\azureSrc.pdb
