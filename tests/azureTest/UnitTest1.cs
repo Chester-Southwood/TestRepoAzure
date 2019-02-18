@@ -14,7 +14,7 @@ namespace azureTest
         [TestMethod]
         public void TestMethod2()
         {
-            Assert.AreEqual(3, 3);
+            Assert.AreEqual(3, 2);
         }
     }
 }
